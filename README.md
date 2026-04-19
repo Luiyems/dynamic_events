@@ -1,7 +1,5 @@
 # Sistema de Gestión de Eventos Interactivo
 
-[!NOTA] tener cuidado al probar el proyecto 
-
 ## Descripción
 
 Aplicación web desarrollada con Vue.js y Node.js que permite gestionar y visualizar eventos de forma dinámica, incluyendo filtrado en tiempo real y actualización de inscritos.
